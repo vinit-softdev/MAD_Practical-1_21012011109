@@ -10,3 +10,7 @@ Integer to Double, String to Integer, String to Double.
 3]Scan student’s information and display all the data.
 
 ![image](https://github.com/vinit-softdev/MAD_Practical-1_21012011109/assets/139493846/e4930abd-b692-4898-8ffa-af3bddb27620)
+
+4]Find the number is odd or even by using Control Flow inside println() method.
+
+![image](https://github.com/vinit-softdev/MAD_Practical-1_21012011109/assets/139493846/f598726a-a8b0-42f1-8f4a-b2925980762b)
