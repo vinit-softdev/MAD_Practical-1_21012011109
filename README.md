@@ -21,3 +21,8 @@ Integer to Double, String to Integer, String to Double.
 
 6]By using a user defined function perform all arithmetic operations.
 
+![image](https://github.com/vinit-softdev/MAD_Practical-1_21012011109/assets/139493846/e28f6bff-3bfb-44c1-9860-9b5c1703dabe)
+
+7]Find the factorial of number by recursion. Explain "tailrec" keyword.
+
+
